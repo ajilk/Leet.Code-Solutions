@@ -1,4 +1,4 @@
-## ![001. Two Sum](https://leetcode.com/problems/two-sum/)
+## [001. Two Sum](https://leetcode.com/problems/two-sum/)
 
 We want to be able quickly check if the current element has a
 complement (target-nums[current]).  
