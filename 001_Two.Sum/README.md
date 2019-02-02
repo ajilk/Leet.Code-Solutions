@@ -2,12 +2,10 @@
 
 We want to be able quickly check if the current element has a
 complement (target-nums[current]).  
-One way to do that is to use map (specifically unordered_map for faster access). 
-KEY: value of the element 
-VALUE: index of the element
-	if [2,7,9 ...]
-		key = 2
-		value = 0
+One way to do that is to use map (specifically unordered_map for faster access).   
+KEY: value of the element   
+VALUE: index of the element  
+if array [2,7,9 ...] then key = 2, value = 0
 
 We iterate through nums to find it is complement.
 ```
