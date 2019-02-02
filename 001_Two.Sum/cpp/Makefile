@@ -1,5 +1,5 @@
 TARGET 		= program
-CC 			= g++
+CC 		= g++
 CXXFLAGS	= -std=c++11 -Wall
 
 $(TARGET):
